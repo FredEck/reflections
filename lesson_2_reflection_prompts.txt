@@ -15,11 +15,17 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+	You can be working on distinctly separate problems at the same time by branching.
+	
 How do the diagrams help you visualize the branch structure?
-
+	They help you understand how the branches relate to master, other branches, and the current
+	HEAD version.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	pro: prevents having to always review all changes
+	con: may not catch all issues/bugs when things are merged in different parts of a file or 
+	with different names/references
