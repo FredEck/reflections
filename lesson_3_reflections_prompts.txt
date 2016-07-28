@@ -17,3 +17,7 @@ While working offline you can see what is last out in GitHub.  That may help you
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Passing files via email or public shares.  There is no commit history to fall back to and reference.  Easier to send/receive files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to try and test/create something out without affecting to original/master code since it may be needed for other branches (for bugs, etc.).
